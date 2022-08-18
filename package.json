@@ -1,0 +1,29 @@
+{
+  "name": "git17-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean:output": "rimraf dist",
+    "start": "parcel src/index.html",
+    "build": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaOrlovskaya/git17-08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaOrlovskaya/git17-08/issues"
+  },
+  "homepage": "https://github.com/AnnaOrlovskaya/git17-08#readme",
+  "dependencies": {
+    "parcel": "^2.7.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "rimraf": "^3.0.2"
+  }
+}
