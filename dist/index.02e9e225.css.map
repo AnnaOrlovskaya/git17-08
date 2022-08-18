@@ -1,1 +1,0 @@
-{"mappings":"AAAA","sources":["src/styles/layout.scss"],"sourcesContent":[".conteiner{\r\n    max-width: 1440px;\r\n    margin: 0 auto;\r\n    width: 100%;\r\n    padding: 0 15px;\r\n}"],"names":[],"version":3,"file":"index.02e9e225.css.map","sourceRoot":"/__parcel_source_root/"}

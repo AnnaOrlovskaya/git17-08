@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "clean:output": "rimraf dist",
     "start": "parcel src/index.html",
-    "build": "parcel src/index.html"
+    "build": "rimraf dist && parcel src/index.html"
   },
   "repository": {
     "type": "git",
